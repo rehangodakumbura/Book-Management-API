@@ -48,7 +48,7 @@ A simple RESTful API built with [Go](https://golang.org/), [Fiber](https://gofib
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/rehangodakumbura/Book-Management-API
 cd GoInternTest
 ```
 
@@ -97,3 +97,4 @@ Visit: [http://localhost:3000/books](http://localhost:3000/books)
   "year": 1949
 }
 ```
+
